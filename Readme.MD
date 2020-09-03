@@ -5,6 +5,7 @@
 * https://www.ebay.com/
 * https://twitter.com/
 * http://google.com
+* http://veilus.herokuapp.com/home
 
 ## Elements
 
@@ -17,6 +18,7 @@
 
 * https://automationintesting.online/
 * https://shunnarah.com/
+* https://www.zalando.fr/
 
 ## Sources
 
@@ -31,6 +33,8 @@
 * https://petstore.swagger.io/
 * https://twitter.com/riley__johnson/status/1300201417035128832
 * https://codepen.io/peruvian_dev/full/zYYWZbR
+* https://codepen.io/btholt/full/FArdh
+* https://juice-shop.herokuapp.com/
 
 ## Application
 
