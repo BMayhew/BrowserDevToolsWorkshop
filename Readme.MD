@@ -1,4 +1,10 @@
-# Interesting Sites to Explore
+# Workshop Worksheet
+
+* [Worksheet](https://docs.google.com/document/d/e/2PACX-1vTERsB2HEDPbgUo0PYgLu2no_9yeuOQh4M3lYT80O5tqXjbTGv86O7e-yohFV24hM5C9UkkVwhMhbbT/pub)
+* [Slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vR5igEE2Pwrb87PzkSXaTHuhDqO3lizKJ0k8SPD_E-O20vFIGEkVsqgmUJ6GdBOrnFw2EmDUin1ieV_/pub?start=false&loop=false&delayms=60000)
+* [Miro-Feedback Board](https://miro.com/lite/2aaaaaac323f34d6sTGbssaTvDIrSZ78AfyPX4b3DHLXhiK3/)
+
+# Other Interesting Sites to Explore
 
 * https://www.apple.com/
 * https://automationintesting.online/
@@ -43,7 +49,7 @@
 
 ## Security
 
-* http://134.122.124.216:3000/
+* http://zero.webappsecurity.com/index.html
 
 ## Lighthouse
 
