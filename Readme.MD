@@ -2,7 +2,7 @@
 
 * [Worksheet](https://docs.google.com/document/d/e/2PACX-1vTERsB2HEDPbgUo0PYgLu2no_9yeuOQh4M3lYT80O5tqXjbTGv86O7e-yohFV24hM5C9UkkVwhMhbbT/pub)
 * [Slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vR5igEE2Pwrb87PzkSXaTHuhDqO3lizKJ0k8SPD_E-O20vFIGEkVsqgmUJ6GdBOrnFw2EmDUin1ieV_/pub?start=false&loop=false&delayms=60000)
-* [Miro-Feedback Board](https://miro.com/lite/2aaaaaacdfa51ccfAOzWmwUWlJh2kOeKXl4Dklj5tpbVwnVt/)
+* [Miro-Feedback Board](https://miro.com/lite/zTthlu2Uj5ygcPjS66RaTFtchDCJ4ccE?isMiroLiteStandalone=true)
 
 # Other Interesting Sites to Explore
 

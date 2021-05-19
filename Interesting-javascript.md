@@ -29,3 +29,5 @@ document.body.style.background = "url(https://media.giphy.com/media/Zx1ZEctOOvxK
 ## Lots More Examples
 
 http://bgrins.github.io/devtools-snippets/
+https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/
+https://itnext.io/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-55bd66ca4128
